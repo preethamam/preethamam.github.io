@@ -6,9 +6,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-About me
-========
-
 Hello and welcome!
 
 I worked as a Senior Research Scientist at Augrade Inc., USA, on Generative AI and Computer vision applications at Augrade for a brief period. Prior to this, I worked as a Computer Vision and Image Analytics Research Scientist at Siemens AI, USA. In addition, I am a Senior Research Associate at the University of Southern California, Department of Civil Engineering, under Professor Sami F. Masri. Lastly, I am a reviewer for the Sage Structural Health Monitoring, Elsevier Automation in Construction, Computer Physics Communications and Springer Nonlinear Dynamics journals.
