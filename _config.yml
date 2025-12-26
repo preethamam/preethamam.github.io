@@ -90,6 +90,8 @@ publication_category:
     title: 'Journal Articles'    
   conferences:
     title: 'Conference Papers'
+  thesis:
+    title: 'Dissertation/Thesis'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
@@ -233,6 +235,15 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+  research:
+    output: true
+    permalink: /:collection/:path/
+  software:
+    output: true
+    permalink: /:collection/:path/
+  datasets:
+    output: true
+    permalink: /:collection/:path/
 
 
 # These settings control how pages and collections are included in the site
@@ -288,6 +299,30 @@ defaults:
       type: talks
     values:
       layout: talk
+      author_profile: true
+      share: true
+  # _research
+  - scope:
+      path: ""
+      type: research
+    values:
+      layout: single
+      author_profile: true
+      share: true
+  # _software
+  - scope:
+      path: ""
+      type: software
+    values:
+      layout: single
+      author_profile: true
+      share: true
+  # _datasets
+  - scope:
+      path: ""
+      type: datasets
+    values:
+      layout: single
       author_profile: true
       share: true
 

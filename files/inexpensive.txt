@@ -1,0 +1,10 @@
+@article{chen2016inexpensive,
+  title={Inexpensive multimodal sensor fusion system for autonomous data acquisition of road surface conditions},
+  author={Chen, Yulu Luke and Jahanshahi, Mohammad R and Manjunatha, Preetham and Gan, WeiPhang and Abdelbarr, Mohamed and Masri, Sami F and Becerik-Gerber, Burcin and Caffrey, John P},
+  journal={IEEE Sensors Journal},
+  volume={16},
+  number={21},
+  pages={7731--7743},
+  year={2016},
+  publisher={IEEE}
+}

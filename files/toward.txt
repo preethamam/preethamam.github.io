@@ -1,0 +1,5 @@
+@techreport{chen2018toward,
+  title={Toward a Swarm of Inexpensive Multimodal Sensor Systems for Autonomous and Quantitative Condition Assessment of Roads},
+  author={Chen, Yulu and Jahanshahi, Mohammad R and Manjunatha, Preetham and Masri, Sami F and Becerik-Gerber, Burcin},
+  year={2018}
+}

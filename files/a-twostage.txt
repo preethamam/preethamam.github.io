@@ -1,0 +1,10 @@
+@article{wang2019two,
+  title={A Two-Stage Local Positioning Method With Misalignment Calibration for Robotic Structural Monitoring of Buildings},
+  author={Wang, Rong and Xiong, Zhi and Chen, Yulu Luke and Manjunatha, Preetham and Masri, Sami F},
+  journal={Journal of Dynamic Systems, Measurement, and Control},
+  volume={141},
+  number={6},
+  pages={061014},
+  year={2019},
+  publisher={American Society of Mechanical Engineers}
+}

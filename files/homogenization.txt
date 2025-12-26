@@ -1,0 +1,10 @@
+@MastersThesis{preetham2012homogenization,
+author = {{Aghalaya Manjunatha}, Preetham},
+title = {Homogenization procedures for the constitutive material modeling and analysis of aperiodic micro-structures},
+school =  {University of Southern California},
+year = 2012,
+type = {Dissertations & Theses},
+address = {3550 Trousdale Parkway Los Angeles, CA 90089},
+month = December,
+note = {Structural Analysis, Aperiodic, Composites, Homogenization, Finite Element Analysis, Image Based Meshing}
+}
