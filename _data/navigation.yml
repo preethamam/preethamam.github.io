@@ -17,20 +17,20 @@ main:
   # - title: "Talks"
   #   url: /talks/    
 
-  - title: "Teaching"
-    url: /teaching/    
-    
-  - title: "Portfolio"
-    url: /portfolio/
+  # - title: "Blog"
+  #   url: /year-archive/
 
   - title: "Software"
     url: /software/
 
   - title: "Datasets"
     url: /datasets/
+      
+  - title: "Portfolio"
+    url: /portfolio/
 
-  # - title: "Blog Posts"
-  #   url: /year-archive/
+  - title: "Teaching"
+    url: /teaching/  
     
   - title: "CV"
     # url: "https://1drv.ms/b/c/ab3a9bf088335851/ESZ3sVxMwFJHtVh8Fa8yd00BRDVXlWms09RuveO4RofiAw?e=9LkaJA"
